@@ -1,10 +1,8 @@
 **UnRAR for BittBoy or PocketGo (V1)**
 
-This is UnRAR 5.8.5 compilled for BittBoy/PocketGo.
+This is UnRAR compilled for BittBoy/PocketGo.
 
 Just copy unrar where you want and you are ready to use it.
-
-![](screenshot.png)
 
 Follow the steps to build newer version from scratch:
 
